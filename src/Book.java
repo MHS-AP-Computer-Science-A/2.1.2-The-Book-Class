@@ -9,9 +9,8 @@ public class Book {
 	}
 	
 	//Fill in the printBook method
-	//This should just be println statements
 	public void printBook() {
-		
+	   //Print the book info here
 	}
 	
 }
