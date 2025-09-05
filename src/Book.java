@@ -10,7 +10,10 @@ public class Book {
 	
 	//Fill in the printBook method
 	public void printBook() {
-	   //Print the book info here
+	   // Print the book title and author
+	   // Print the number of pages
+	   // Print how many pages per day must be read to complete the book in 14 days
 	}
 	
 }
+
